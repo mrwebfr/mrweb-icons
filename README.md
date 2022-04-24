@@ -1,4 +1,4 @@
-# Mrweb-Flat-Icons
+# Mrweb Icons
 
 ![Grey](https://raw.githubusercontent.com/mrwebfr/mrweb-icons/main/sources/grey.gif)
 ![Flat](https://raw.githubusercontent.com/mrwebfr/mrweb-icons/main/sources/flat.gif)
@@ -17,8 +17,8 @@ An icon theme for Linux desktops.
 
 To set the theme in Gnome, run the following commands in Terminal:
 
-    gsettings set org.gnome.desktop.interface icon-theme mrweb-flat-blue
+    gsettings set org.gnome.desktop.interface icon-theme Mrweb-Grey-SkyBlue
 
-change `mrweb-flat-blue` to the theme name,
+change `Mrweb-Grey-SkyBlue` to the theme name,
 
 or change via distribution specific `gnome-tweaks`.
