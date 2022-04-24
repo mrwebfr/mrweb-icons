@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<path style="opacity:0.2;enable-background:new    ;" d="M12.75,5C11.227,5,10,6.249,10,7.8v50.4c0,1.55,1.227,2.8,2.75,2.8h38.5
+	c1.522,0,2.75-1.25,2.75-2.8V23l-14-4L36,5H12.75z"/>
+<path style="fill:#3C4247;" d="M12.75,4C11.227,4,10,5.249,10,6.8v50.4c0,1.55,1.227,2.8,2.75,2.8h38.5c1.522,0,2.75-1.25,2.75-2.8
+	V22l-14-4L36,4H12.75z"/>
+<rect x="18" y="4" style="opacity:0.2;enable-background:new    ;" width="10" height="27"/>
+<rect x="23" y="4" style="fill:#FFFFFF;" width="3" height="3"/>
+<rect x="20" y="25" style="fill:#FFFFFF;" width="3" height="3"/>
+<path style="fill:#4B4B4B;" d="M23,25c3.75,0,3.75,5.6,5,5.6v7c0,0.775-0.558,1.4-1.25,1.4h-7.5C18.558,39,18,38.375,18,37.6v-7
+	C19.25,30.6,19.25,25,23,25z"/>
+<path style="opacity:0.2;enable-background:new    ;" d="M22.668,32C20.083,32,18,34.103,18,36.711v9.578
+	C18,48.897,20.083,51,22.668,51h0.664C25.917,51,28,48.897,28,46.289v-9.578C28,34.103,25.917,32,23.332,32H22.668z M23,42
+	c2.209,0,4,1.793,4,4.002S25.209,50,23,50s-4-1.789-4-3.998S20.791,42,23,42z"/>
+<path style="fill:#FFFFFF;" d="M22.668,31C20.083,31,18,33.103,18,35.711v9.578C18,47.897,20.083,50,22.668,50h0.664
+	C25.917,50,28,47.897,28,45.289v-9.578C28,33.103,25.917,31,23.332,31H22.668z M23,41c2.209,0,4,1.793,4,4.002S25.209,49,23,49
+	s-4-1.789-4-3.998S20.791,41,23,41z"/>
+<path style="fill:#909090;" d="M22.984,27c-0.552,0.009-0.992,0.46-0.984,1.01v5.979c-0.008,0.55,0.434,1.003,0.986,1.011
+	s1.006-0.432,1.014-0.982c0-0.01,0-0.02,0-0.028V28.01c0.007-0.55-0.434-1.002-0.986-1.01C23.004,27,22.994,27,22.984,27z"/>
+<rect x="20" y="7" style="fill:#FFFFFF;" width="3" height="3"/>
+<rect x="23" y="10" style="fill:#FFFFFF;" width="3" height="3"/>
+<rect x="20" y="13" style="fill:#FFFFFF;" width="3" height="3"/>
+<rect x="23" y="16" style="fill:#FFFFFF;" width="3" height="3"/>
+<rect x="20" y="19" style="fill:#FFFFFF;" width="3" height="3"/>
+<rect x="23" y="22" style="fill:#FFFFFF;" width="3" height="3"/>
+<path style="opacity:0.2;enable-background:new    ;" d="M54,23L36,5v15.188C36,21.747,37.256,23,38.813,23H54z"/>
+<path style="fill:#303538;" d="M54,22L36,4v15.188C36,20.747,37.256,22,38.813,22H54z"/>
+<path style="opacity:0.2;fill:#FFFFFF;enable-background:new    ;" d="M12.75,4C11.227,4,10,5.25,10,6.801v1
+	C10,6.25,11.227,5,12.75,5H36V4H12.75z"/>
+</svg>
