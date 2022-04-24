@@ -1,11 +1,11 @@
 # Mrweb Icons
 
-![Grey](https://raw.githubusercontent.com/mrwebfr/mrweb-icons/main/sources/grey.gif)
-![Flat](https://raw.githubusercontent.com/mrwebfr/mrweb-icons/main/sources/flat.gif)
-
 An icon theme for Linux desktops.
 
     Inherits=Yaru,Papirus,Humanity,hicolor
+
+![Grey](https://raw.githubusercontent.com/mrwebfr/mrweb-icons/main/sources/grey.gif)
+![Flat](https://raw.githubusercontent.com/mrwebfr/mrweb-icons/main/sources/flat.gif)
 
 ## Installation
 
