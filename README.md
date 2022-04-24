@@ -19,6 +19,6 @@ To set the theme in Gnome, run the following commands in Terminal:
 
     gsettings set org.gnome.desktop.interface icon-theme Mrweb-Grey-SkyBlue
 
-change `Mrweb-Grey-SkyBlue` to the theme name,
+change `Mrweb-Grey-SkyBlue` to the theme name, 
 
-or change via distribution specific `gnome-tweaks`.
+or change with ![gnome-tweaks](https://doc.ubuntu-fr.org/gnome-tweaks).
