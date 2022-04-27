@@ -6,8 +6,9 @@ rm -rf $name
 mkdir $name
 cp -r $default/* $name/
 sleep 2s
-sed -i 's/#57727f/#0d6e9f/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#0d6e9f/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#0af/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#138cc9/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#1281b9/gi' $name/scalable/places/*.svg
 
 name=Mrweb-Flat-Red
 rm -rf $name
