@@ -5,7 +5,7 @@ name=Mrweb-Flat-SkyBlue
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
+sed -i 's/#1793d1/#108bc9/gi' $name/scalable/places/*.svg
 sed -i 's/#57727f/#0d6e9f/gi' $name/scalable/places/*.svg
 sed -i 's/#49616B/#0d6e9f/gi' $name/scalable/places/*.svg
 
@@ -13,19 +13,17 @@ name=Mrweb-Flat-Red
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#d00b0b/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#980808/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#980808/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#ff0d0d/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#d00b0b/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#d00b0b/gi' $name/scalable/places/*.svg
 
 name=Mrweb-Flat-Gold
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#bb9318/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#886c14/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#886c14/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#e8b71e/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#bb9318/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#bb9318/gi' $name/scalable/places/*.svg
 
 #Flat Remix
 
@@ -33,71 +31,63 @@ name=Mrweb-Flat-Blue
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#2778ff/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#084ecf/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#084ecf/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#28b1ff/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#2778ff/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#2778ff/gi' $name/scalable/places/*.svg
 
 name=Mrweb-Flat-Brown
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#c37837/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#79502e/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#79502e/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#f69847/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#c37837/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#c37837/gi' $name/scalable/places/*.svg
 
 name=Mrweb-Flat-Cyan
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#0dcfd9/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#087c87/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#087c87/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#0ef3ff/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#0dcfd9/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#0dcfd9/gi' $name/scalable/places/*.svg
 
 name=Mrweb-Flat-Green
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#07a283/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#034d3e/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#034d3e/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#0bc39e/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#07a283/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#07a283/gi' $name/scalable/places/*.svg
 
 name=Mrweb-Flat-Magenta
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#cd0244/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#790428/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#790428/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#ff0858/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#cd0244/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#cd0244/gi' $name/scalable/places/*.svg
 
 name=Mrweb-Flat-Orange
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#fd7d00/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#aa5507/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#aa5507/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#ff9833/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#fd7d00/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#fd7d00/gi' $name/scalable/places/*.svg
 
 name=Mrweb-Flat-Teal
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#0198a1/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#044a49/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#044a49/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#06bcc7/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#0198a1/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#0198a1/gi' $name/scalable/places/*.svg
 
 
 name=Mrweb-Flat-Violet
 rm -rf $name
 mkdir $name
 cp -r $default/* $name/
-sleep 2s
-sed -i 's/#1793d1/#972ac5/gi' $name/scalable/places/*.svg
-sed -i 's/#57727f/#601a7a/gi' $name/scalable/places/*.svg
-sed -i 's/#49616B/#601a7a/gi' $name/scalable/places/*.svg
+sed -i 's/#1793d1/#b734ee/gi' $name/scalable/places/*.svg
+sed -i 's/#57727f/#972ac5/gi' $name/scalable/places/*.svg
+sed -i 's/#49616B/#972ac5/gi' $name/scalable/places/*.svg
